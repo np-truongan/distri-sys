@@ -1,7 +1,8 @@
-Distributed System Midterm Project
-Group ID: 
+# Distributed System Midterm Project
 
-Group members:
+# Group ID: 
+
+# Group members:
 - Nguyen Pham Truong An - 23BI14004
 - Phung Dam Tien Si - 23BI14384
 - Do Minh Tien - 23BI14421
